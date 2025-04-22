@@ -1,0 +1,7 @@
+httpx
+openai
+faiss-cpu
+sentence-transformers
+hf_xet
+aiogram
+dotenv
